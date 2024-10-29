@@ -8,4 +8,4 @@ Welcome to the spooky world of the haunted mansion! You are tasked with a crucia
 
 ## GitHub Pages
 
-To experience the Haunted Mansion Pumpkin Shooter, visit our [GitHub Pages](https://g-dilek.github.io/haunted_mansion) page.
+[Click here to play Haunted Mansion Pumpkin Shooter!](https://g-dilek.github.io/haunted_mansion)
